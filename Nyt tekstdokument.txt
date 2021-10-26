@@ -1,0 +1,7 @@
+Logbog 26/03 2021
+
+I dag er der blivet arbejdet på at få sprites ind i programmet, ved hjælp af SFML.
+
+Logbog 12/04 2021
+
+I dag er aben blevet færdig, musik virker måske og de bevægende blokke viser fremskridt.

@@ -1,0 +1,6 @@
+
+Ting Jacob sagde ville være en god idé i forhold til vores kode...
+
+* Vi skulle give vores sprites mere sigende navne
+* Det ville være en god idé at holde while(window.isOpen()) 
+  så kort som muligt, så vi skal lave klaser med funktionerne i.
